@@ -565,10 +565,9 @@ dmypy.json
 cython_debug/
 
 # Local files
-media/
 .idea/
 .vscode/
-migrations/
+
 
 /media/patient_files/*
 /media/users_avatars/*
