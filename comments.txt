@@ -11,3 +11,8 @@ Supported file formats: 'xls', 'xlsx', 'xls', 'xls', 'csv', 'pdf', 'odt', 'docx'
 
 
 Sample files are stored in the sample_files folder.
+
+Yes, I also had to upload the secret file to the repository.json with a secret key,
+because there is no other way to transfer the file.
+
+And some of the libraries required the installation of a Java compiler.
